@@ -68,3 +68,6 @@ body{
     cursor: not-allowed;
     color: white;
 }
+.btn:active{
+    transform: scale(0.95);
+}
